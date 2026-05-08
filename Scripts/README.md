@@ -13,18 +13,6 @@ The scripts included in this repository were developed for:
 
 ---
 
-# Directory Structure
-
-```text
-Scripts/
-├── Bash/
-├── PowerShell/
-├── Python/
-└── README.md
-```
-
----
-
 # Script Categories
 
 ## Bash Scripts
@@ -143,17 +131,6 @@ Some scripts may require:
 - installed dependencies
 - specific operating systems
 - network connectivity
-
----
-
-# Verification Recommendations
-
-Recommended documentation:
-- terminal outputs
-- screenshots
-- script execution examples
-- generated logs
-- analysis results
 
 ---
 

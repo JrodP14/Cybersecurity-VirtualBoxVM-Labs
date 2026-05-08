@@ -33,7 +33,7 @@ The Windows 7 VM functions as a Windows analysis target for malware observation,
 # Lab Systems
 
 | System | IP Address | Role |
-|---|---|
+|---|---|---|
 | Kali Linux | 10.0.2.3 | Attacker VM |
 | Metasploitable2 | 10.0.2.4 | Vulnerable Target |
 | Windows 7 VM | 10.0.2.5 | RAT Analysis |

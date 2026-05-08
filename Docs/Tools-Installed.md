@@ -32,7 +32,7 @@ All virtual machines operate independently within the same isolated lab network.
 # Virtual Machines
 
 | Virtual Machine | IP Address | Purpose |
-|---|---|
+|---|---|---|
 | Kali Linux | 10.0.2.3 | Attacker / Security Testing |
 | Metasploitable2 | 10.0.2.4 | Vulnerable Target |
 | Windows 7 VM | 10.0.2.5 | Malware / RAT Analysis |

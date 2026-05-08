@@ -14,43 +14,13 @@ Display filters improve:
 
 # Common Filters
 
-## DNS Traffic
-
-```text
-dns
-```
-
----
-
-## HTTP Traffic
-
-```text
-http
-```
-
----
-
-## TCP Traffic
-
-```text
-tcp
-```
-
----
-
-## UDP Traffic
-
-```text
-udp
-```
-
----
-
-## ICMP Traffic
-
-```text
-icmp
-```
+|Filter Type|Search Syntax|
+|---|---|
+|DNS Traffic|dns|
+|HTTP Traffic|http|
+|TCP Traffic|tcp|
+|UDP Traffic|udp|
+|ICMP Traffic|icmp|
 
 ---
 

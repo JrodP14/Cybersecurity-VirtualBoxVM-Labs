@@ -43,7 +43,7 @@ All virtual machines operate independently within the same isolated NAT network 
 # Virtual Machine Topology
 
 | Virtual Machine | IP Address | Operating System | Role |
-|---|---|
+|---|---|---|---|
 | Kali Linux VM| 10.0.2.3 | Kali Linux | Attacker / Security Testing |
 | Metasploitable2 VM| 10.0.2.4 | Linux | Vulnerable Target |
 | Windows 7 VM| 10.0.2.5 | Windows 7 | Malware / RAT Analysis |
@@ -51,8 +51,6 @@ All virtual machines operate independently within the same isolated NAT network 
 | OpenVAS VM | 10.0.2.7 | Linux | Vulnerability Scanner |
 
 ---
-
-# Network Diagram
 
 # Network Diagram
 

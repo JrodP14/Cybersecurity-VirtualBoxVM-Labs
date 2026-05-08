@@ -13,15 +13,15 @@ The purpose of this roadmap is to:
 
 ---
 
-# Current Lab Environment
+# Current Lab Environment   
 
-| System | IP Address | Role |
-|---|---|
-| Kali Linux | 10.0.2.3 | Attacker / Security Testing |
-| Metasploitable2 | 10.0.2.4 | Vulnerable Target |
-| Windows 7 | 10.0.2.5 | Malware / RAT Analysis |
-| Windows 10 | 10.0.2.6 | Endpoint Analysis |
-| OpenVAS VM | 10.0.2.7 | Vulnerability Scanning |
+| System | IP Address | Role |   
+|---|---|---| 
+| Kali Linux | 10.0.2.3 | Attacker / Security Testing |   
+| Metasploitable2 | 10.0.2.4 | Vulnerable Target |     
+| Windows 7 | 10.0.2.5 | Malware / RAT Analysis |   
+| Windows 10 | 10.0.2.6 | Endpoint Analysis |   
+| OpenVAS VM | 10.0.2.7 | Vulnerability Scanning |   
 
 ---
 
@@ -32,11 +32,11 @@ The purpose of this roadmap is to:
 Develop foundational Linux skills required for cybersecurity operations, navigation, permissions management, and command-line tooling.
 
 | Lab | Status |
-|---|---|
-| Basic Maintenance & Informational Commands | Complete |
-| Navigation & File Management | Complete |
-| File Permissions & Process Management | Complete |
-| grep & cut Usage | Complete |
+|---|---|   
+| Basic Maintenance & Informational Commands | Complete |   
+| Navigation & File Management | Complete |   
+| File Permissions & Process Management | Complete |   
+| grep & cut Usage | Complete |   
 
 ### Skills Developed
 
@@ -55,11 +55,11 @@ Develop foundational Linux skills required for cybersecurity operations, navigat
 
 Learn host discovery, service enumeration, operating system detection, and vulnerability reconnaissance.
 
-| Lab | Status |
-|---|---|
-| Introduction to Nmap | Complete |
-| OpenVAS Vulnerability Scanning | Complete |
-| Wireshark Traffic Analysis | Complete |
+| Lab | Status |   
+|---|---|   
+| Introduction to Nmap | Complete |   
+| OpenVAS Vulnerability Scanning | Complete |   
+| Wireshark Traffic Analysis | Complete |    
 
 ### Skills Developed
 
@@ -78,11 +78,11 @@ Learn host discovery, service enumeration, operating system detection, and vulne
 
 Understand exploitation workflows, post-exploitation activities, and network interception techniques.
 
-| Lab | Status |
-|---|---|
-| Metasploit to Metasploitable2 | Complete |
-| RAT Observation & Suspicious Processes | Complete |
-| Ettercap MITM & DNS Poisoning | Complete |
+| Lab | Status |   
+|---|---|   
+| Metasploit to Metasploitable2 | Complete |   
+| RAT Observation & Suspicious Processes | Complete |   
+| Ettercap MITM & DNS Poisoning | Complete |   
 
 ### Skills Developed
 
@@ -102,10 +102,10 @@ Understand exploitation workflows, post-exploitation activities, and network int
 
 Understand password hashing, password auditing, and password recovery methodologies.
 
-| Lab | Status |
-|---|---|
-| Hashing Basics | Complete |
-| Hashcat Password Cracking | Complete |
+| Lab | Status |   
+|---|---|   
+| Hashing Basics | Complete |   
+| Hashcat Password Cracking | Complete |   
 
 ### Skills Developed
 
@@ -123,9 +123,9 @@ Understand password hashing, password auditing, and password recovery methodolog
 
 Learn wireless reconnaissance, WPA/WPA2 handshake capture, and wireless password auditing.
 
-| Lab | Status |
-|---|---|
-| Aircrack-ng Wireless Attacks | Complete |
+| Lab | Status |   
+|---|---|   
+| Aircrack-ng Wireless Attacks | Complete |   
 
 ### Skills Developed
 
@@ -139,17 +139,17 @@ Learn wireless reconnaissance, WPA/WPA2 handshake capture, and wireless password
 
 # Current Tools Used
 
-| Tool | Purpose |
-|---|---|
-| Nmap | Network reconnaissance |
-| Metasploit Framework | Exploitation |
-| Wireshark | Packet analysis |
-| Hashcat | Password auditing |
-| Aircrack-ng | Wireless security testing |
-| Ettercap | MITM attacks |
-| OpenVAS | Vulnerability scanning |
-| Netcat | Network communication |
-| Sysinternals Suite | Windows process analysis |
+| Tool | Purpose |   
+|---|---|   
+| Nmap | Network reconnaissance |   
+| Metasploit Framework | Exploitation |   
+| Wireshark | Packet analysis |   
+| Hashcat | Password auditing |   
+| Aircrack-ng | Wireless security testing |   
+| Ettercap | MITM attacks |   
+| OpenVAS | Vulnerability scanning |   
+| Netcat | Network communication |   
+| Sysinternals Suite | Windows process analysis |   
 
 ---
 
@@ -187,48 +187,48 @@ Learn wireless reconnaissance, WPA/WPA2 handshake capture, and wireless password
 
 ## Blue Team & SOC Operations
 
-| Planned Lab | Status |
-|---|---|
-| Wazuh SIEM Deployment | Planned |
-| Security Onion Setup | Planned |
-| Splunk Log Analysis | Planned |
-| Sysmon Configuration | Planned |
-| Windows Event Log Analysis | Planned |
+| Planned Lab | Status |   
+|---|---|   
+| Wazuh SIEM Deployment | Planned |   
+| Security Onion Setup | Planned |   
+| Splunk Log Analysis | Planned |   
+| Sysmon Configuration | Planned |   
+| Windows Event Log Analysis | Planned |   
 
 ---
 
 ## Active Directory & Enterprise Security
 
-| Planned Lab | Status |
-|---|---|
-| Active Directory Deployment | Planned |
-| Domain Controller Setup | Planned |
-| Kerberos Attacks | Planned |
-| BloodHound Enumeration | Planned |
-| Group Policy Analysis | Planned |
+| Planned Lab | Status |   
+|---|---|   
+| Active Directory Deployment | Planned |   
+| Domain Controller Setup | Planned |   
+| Kerberos Attacks | Planned |   
+| BloodHound Enumeration | Planned |   
+| Group Policy Analysis | Planned |   
 
 ---
 
 ## Malware Analysis & Forensics
 
-| Planned Lab | Status |
-|---|---|
-| REMnux Setup | Planned |
-| Volatility Memory Analysis | Planned |
-| Malware Traffic Analysis | Planned |
-| YARA Rule Development | Planned |
-| PE File Analysis | Planned |
+| Planned Lab | Status |   
+|---|---|   
+| REMnux Setup | Planned |   
+| Volatility Memory Analysis | Planned |   
+| Malware Traffic Analysis | Planned |   
+| YARA Rule Development | Planned |   
+| PE File Analysis | Planned |   
 
 ---
 
 ## Detection Engineering
 
-| Planned Lab | Status |
-|---|---|
-| Sigma Rule Development | Planned |
-| Suricata Rule Analysis | Planned |
-| Zeek Network Monitoring | Planned |
-| Detection Validation | Planned |
+| Planned Lab | Status |   
+|---|---|   
+| Sigma Rule Development | Planned |   
+| Suricata Rule Analysis | Planned |   
+| Zeek Network Monitoring | Planned |   
+| Detection Validation | Planned |   
 
 ---
 

@@ -1,7 +1,7 @@
-#VM Login
-Username : admin
-Password : ChangeMe
+#VM Login   
+Username : admin   
+Password : ChangeMe   
 
-#Website Login
-Username : student
-Password : ChangeMe
+#Website Login   
+Username : student   
+Password : ChangeMe   

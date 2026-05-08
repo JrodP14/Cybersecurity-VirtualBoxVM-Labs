@@ -35,7 +35,7 @@ The Kali Linux VM functions as the primary attacker and security testing platfor
 # Lab Systems
 
 | System | IP Address | Role |
-|---|---|
+|---|---|---|
 | Kali Linux | 10.0.2.3 | Attacker VM |
 | Metasploitable2 | 10.0.2.4 | Vulnerable Target |
 | Windows 7 VM | 10.0.2.5 | RAT Analysis |

@@ -1,0 +1,40 @@
+# Plaintext : Password123!
+
+SHA256 :
+    a109e36947ad56de1dca1cc49f0ef8ac9ad9a7b1aa0df41fb3c4cb73c1ff01ea
+SHA1 :
+    49efef5f70d47adc2db2eb397fbef5f7bc560e29
+MD5 : 
+    2c103f2c4ed1e59c0b4e2e01821770fa
+
+# Plaintext : SuperDuperPassword777$
+
+SHA256 :
+    474e3b2d10a7ec8da75a28e918e69552d42dda50d5b06243f0444b80ef30917c
+SHA1 :
+    b1dc4ac083dfc1d2d0a80ef4d82e65532b358aa2
+MD5 :
+    8f21411725e6715a6d7e03136910e617
+
+
+# File : passwd.processed
+
+SHA256 :
+    6284058bcd9454c47dbe391f27a123bafc4c266a630a4e19aed36db679fabd7e
+SHA1 :
+    7a1d9424139f46e98db4b4289f2f52400b61874f
+MD5 :
+    3dcb9c2606813b38a6634a60de6b886f
+
+    
+# Avalanche Effect
+
+Password123! :
+SHA256 : 
+    a109e36947ad56de1dca1cc49f0ef8ac9ad9a7b1aa0df41fb3c4cb73c1ff01ea
+    
+Password123? :
+SHA256 : 
+    178f07a31665a726af4e420529965dd5fc76f0614e557b6ccda52005c9d23e5d
+    
+

@@ -105,6 +105,7 @@ Reviewed:
 - Monitor mode is required for passive wireless analysis.
 - Wireless reconnaissance improves visibility into nearby networks.
 - Channel identification assists packet collection workflows.
+- SSIDs, MAC addresses, and other identifying wireless information have been redacted for privacy and safety. All testing was performed against authorized lab equipment and personally owned devices.
 
 ---
 

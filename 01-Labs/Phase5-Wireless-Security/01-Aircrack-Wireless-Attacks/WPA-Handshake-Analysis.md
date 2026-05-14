@@ -100,6 +100,7 @@ Reviewed:
 - Handshake captures support wireless-authentication analysis.
 - Strong passphrases significantly improve WPA/WPA2 security.
 - Packet captures should remain within authorized environments.
+- SSIDs, MAC addresses, and other identifying wireless information have been redacted for privacy and safety. All testing was performed against authorized lab equipment and personally owned devices.
 
 ---
 

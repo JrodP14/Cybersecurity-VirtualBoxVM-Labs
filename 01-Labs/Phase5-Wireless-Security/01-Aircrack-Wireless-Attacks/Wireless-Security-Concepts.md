@@ -83,6 +83,7 @@ Security teams should monitor:
 - WPA3 improves protection against modern wireless attacks.
 - Weak passwords significantly increase wireless exposure.
 - Wireless monitoring improves security visibility.
+- SSIDs, MAC addresses, and other identifying wireless information have been redacted for privacy and safety. All testing was performed against authorized lab equipment and personally owned devices.
 
 ---
 

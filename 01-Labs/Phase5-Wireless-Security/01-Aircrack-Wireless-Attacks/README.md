@@ -34,7 +34,7 @@ The primary objectives of this lab were:
 |---|---|
 | Kali Linux | Wireless Analysis VM |
 | Wireless Adapter | Monitor Mode Adapter |
-| Target Wireless Network | Authorized Lab Network |
+| Target Wireless Network (Jarrod's iPhone) | Authorized Lab Network |
 
 ---
 
@@ -125,6 +125,7 @@ Recommended screenshots for documentation:
 - Wireless analysis was performed only within authorized lab environments.
 - Monitor mode enables passive wireless traffic collection.
 - Strong WPA/WPA2 passwords improve wireless security.
+- SSIDs, MAC addresses, and other identifying wireless information have been redacted for privacy and safety. All testing was performed against authorized lab equipment and personally owned devices.
 
 ---
 

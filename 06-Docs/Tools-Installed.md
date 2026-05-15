@@ -61,6 +61,9 @@ All virtual machines operate independently within the same isolated lab network.
 | wget | File downloading |
 | ping | Connectivity testing |
 | traceroute | Network path analysis |
+| Shodan | Passive OSINT reconnaissance and exposed service discovery |
+| Sublist3r | Passive subdomain enumeration |
+| theHarvester | Email harvesting and public information gathering |
 
 ---
 
@@ -99,6 +102,7 @@ All virtual machines operate independently within the same isolated lab network.
 | arp | ARP table analysis |
 | nslookup | DNS queries |
 | dig | DNS analysis |
+| whois | Domain ownership and registration analysis |
 
 ---
 
@@ -108,7 +112,19 @@ All virtual machines operate independently within the same isolated lab network.
 |---|---|
 | rockyou.txt | Password auditing wordlist |
 | SecLists | Security testing resources |
-| Custom Wordlists | Password testing |
+| passwords-archive.lst | Password testing |
+
+---
+
+# OSINT Resources
+
+| Resource | Purpose |
+|---|---|
+| Shodan | Internet-facing asset discovery |
+| crt.sh | Certificate transparency analysis |
+| WHOIS | Domain registration analysis |
+| DNS Records | Public infrastructure analysis |
+| Search Engines | Passive reconnaissance |
 
 ---
 
@@ -147,6 +163,9 @@ Future planned additions to the lab environment:
 - Velociraptor
 - Volatility
 - Autopsy
+- Maltego
+- SpiderFoot
+- Recon-ng
 
 ---
 

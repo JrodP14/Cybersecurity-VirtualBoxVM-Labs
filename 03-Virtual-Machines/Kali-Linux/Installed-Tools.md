@@ -20,11 +20,14 @@ The Kali Linux VM serves as the primary attacker, analysis, and security testing
 
 ---
 
-# Reconnaissance & Enumeration Tools
+# Reconnaissance, Enumeration, and OSINT Tools
 
 | Tool | Purpose |
 |---|---|
 | Nmap | Network reconnaissance and port scanning |
+| Shodan | Passive OSINT reconnaissance and exposed service discovery |
+| Sublist3r | Passive subdomain enumeration |
+| theHarvester | Email harvesting and public information gathering |
 | Netdiscover | Host discovery |
 | Netcat | Banner grabbing and connectivity testing |
 | traceroute | Network path analysis |
@@ -113,6 +116,7 @@ The Kali Linux VM serves as the primary attacker, analysis, and security testing
 | arp | ARP table analysis |
 | dig | DNS queries |
 | nslookup | DNS resolution |
+| whois | Domain ownership and registration analysis |
 
 ---
 
@@ -145,6 +149,9 @@ Future planned additions include:
 - Suricata
 - Volatility
 - YARA
+- Recon-ng
+- SpiderFoot
+- Maltego
 
 ---
 
@@ -153,6 +160,7 @@ Future planned additions include:
 - Tools are installed strictly for authorized educational use.
 - Additional tools may be added as the lab environment expands.
 - Some tools require elevated privileges for full functionality.
+- The Kali Linux VM supports both active scanning and passive OSINT reconnaissance workflows.
 
 ---
 

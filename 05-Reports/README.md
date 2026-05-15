@@ -2,17 +2,20 @@
 
 ## Overview
 
-This directory contains consolidated cybersecurity assessment reports, exported scan results, analysis summaries, and portfolio-quality documentation generated throughout the cybersecurity home lab environment.
+This directory contains consolidated cybersecurity assessment reports, exported scan results, analysis summaries, and portfolio-quality documentation generated throughout a cybersecurity home lab environment.
 
 The purpose of this directory is to organize higher-level findings and formalized documentation separate from individual lab verification artifacts.
 
 Reports included in this repository support:
-- vulnerability analysis
-- network investigations
-- exploitation assessments
-- traffic analysis
-- security documentation
-- portfolio presentation
+- Vulnerability analysis
+- Network investigations
+- Exploitation assessments
+- Traffic analysis
+- OSINT reconnaissance
+- Wireless security analysis
+- Password security assessment
+- Security documentation
+- Portfolio presentation
 
 ---
 
@@ -28,15 +31,9 @@ Reports/Vulnerability-Assessments/
 
 Contains:
 - OpenVAS reports
-- vulnerability summaries
-- scan exports
-- remediation observations
-- assessment documentation
-
-Example files:
-- `openvas-metasploitable-report.pdf`
-- `windows10-vulnerability-scan.pdf`
-- `vulnerability-summary.md`
+- Vulnerability summaries
+- Remediation observations
+- Assessment documentation
 
 ---
 
@@ -50,14 +47,12 @@ Reports/Network-Analysis/
 
 Contains:
 - Wireshark analysis reports
-- traffic-investigation summaries
-- packet-analysis findings
-- protocol observations
-
-Example files:
-- `wireshark-analysis-report.md`
-- `traffic-investigation-summary.md`
-- `packet-analysis-findings.pdf`
+- Traffic-investigation summaries
+- Packet-analysis findings
+- Protocol observations
+- TCP handshake analysis
+- Wireless handshake analysis
+- DNS and HTTP traffic inspection
 
 ---
 
@@ -70,29 +65,27 @@ Reports/Exploitation/
 ```
 
 Contains:
-- exploitation summaries
-- attack-path documentation
-- assessment findings
-- post-exploitation observations
-
-Example files:
-- `metasploit-assessment-summary.md`
-- `exploitation-findings.md`
+- Exploitation summaries
+- Attack-path documentation
+- MITM attack observations
+- Password cracking assessments
+- Assessment findings
+- Post-exploitation observations
 
 ---
 
 # Purpose of This Directory
 
 This directory is intended for:
-- formalized documentation
-- exported reports
-- summarized findings
-- portfolio presentation
+- Formalized documentation
+- Exported reports
+- Summarized findings
+- Portfolio presentation
 
 rather than:
-- raw screenshots
-- command outputs
-- temporary notes
+- Raw screenshots
+- Command outputs
+- Temporary notes
 
 ---
 
@@ -100,12 +93,13 @@ rather than:
 # Skills Demonstrated
 
 This directory demonstrates:
-- technical documentation
-- assessment reporting
-- vulnerability analysis
-- security investigation workflows
-- defensive analysis
-- report organization
+- Technical documentation
+- Assessment reporting
+- Vulnerability analysis
+- Reconnaissance workflows
+- Security investigation workflows
+- Defensive analysis
+- Report organization
 
 ---
 

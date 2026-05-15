@@ -59,16 +59,18 @@ Learn host discovery, service enumeration, operating system detection, and vulne
 |---|---|   
 | Introduction to Nmap | Complete |   
 | OpenVAS Vulnerability Scanning | Complete |   
-| Wireshark Traffic Analysis | Complete |    
+| Wireshark Traffic Analysis | Complete | 
+| OSINT Reconnaissance | Complete |
 
 ### Skills Developed
 
-- network scanning
-- host discovery
-- service enumeration
-- packet analysis
-- vulnerability assessment
-- protocol analysis
+- Network scanning
+- Host discovery
+- Service enumeration
+- Packet analysis
+- Vulnerability assessment
+- Protocol analysis
+- OSINT collection
 
 ---
 
@@ -149,7 +151,10 @@ Learn wireless reconnaissance, WPA/WPA2 handshake capture, and wireless password
 | Ettercap | MITM attacks |   
 | OpenVAS | Vulnerability scanning |   
 | Netcat | Network communication |   
-| Sysinternals Suite | Windows process analysis |   
+| Sysinternals Suite | Windows process analysis |
+| Shodan | Internet asset reconnaissance |
+| Sublist3r | Subdomain enumeration |
+| theHarvester | OSINT data collection |   
 
 ---
 

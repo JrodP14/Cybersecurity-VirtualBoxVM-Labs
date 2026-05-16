@@ -17,12 +17,6 @@ The scripts included in this repository were developed for:
 
 ## Bash Scripts
 
-Location:
-
-```text
-Scripts/Bash/
-```
-
 Purpose:
 - Linux automation
 - service management
@@ -41,12 +35,6 @@ Purpose:
 ---
 
 ## PowerShell Scripts
-
-Location:
-
-```text
-Scripts/PowerShell/
-```
 
 Purpose:
 - Windows administration
@@ -67,12 +55,6 @@ Purpose:
 
 ## Python Scripts
 
-Location:
-
-```text
-Scripts/Python/
-```
-
 Purpose:
 - automation
 - socket programming
@@ -87,20 +69,6 @@ Purpose:
 | `port-scanner.py` | Basic Python port scanner |
 | `hash-checker.py` | SHA256 hashing utility |
 | `log-parser.py` | Simple log analysis tool |
-
----
-
-# Related Labs
-
-The scripts in this directory support concepts and workflows from multiple lab sections, including:
-
-- Kali Linux Fundamentals
-- Reconnaissance & Scanning
-- Wireshark Traffic Analysis
-- Metasploit Exploitation
-- RAT & Suspicious Process Analysis
-- Password Security
-- Wireless Security
 
 ---
 

@@ -64,6 +64,7 @@ All virtual machines operate independently within the same isolated lab network.
 | Shodan | Passive OSINT reconnaissance and exposed service discovery |
 | Sublist3r | Passive subdomain enumeration |
 | theHarvester | Email harvesting and public information gathering |
+| Python | Automation and reconnaissance scripting |
 
 ---
 

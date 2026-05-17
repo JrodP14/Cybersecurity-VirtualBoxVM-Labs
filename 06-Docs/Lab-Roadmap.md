@@ -61,6 +61,7 @@ Learn host discovery, service enumeration, operating system detection, and vulne
 | OpenVAS Vulnerability Scanning | Complete |   
 | Wireshark Traffic Analysis | Complete | 
 | OSINT Reconnaissance | Complete |
+| Python Port Scanner | Complete |
 
 ### Skills Developed
 
@@ -71,6 +72,8 @@ Learn host discovery, service enumeration, operating system detection, and vulne
 - Vulnerability assessment
 - Protocol analysis
 - OSINT collection
+- Python socket programming
+- Reconnaissance automation
 
 ---
 

@@ -23,12 +23,6 @@ Reports included in this repository support:
 
 ## Vulnerability Assessments
 
-Location:
-
-```text
-Reports/Vulnerability-Assessments/
-```
-
 Contains:
 - OpenVAS reports
 - Vulnerability summaries
@@ -38,12 +32,6 @@ Contains:
 ---
 
 ## Network Analysis
-
-Location:
-
-```text
-Reports/Network-Analysis/
-```
 
 Contains:
 - Wireshark analysis reports
@@ -57,12 +45,6 @@ Contains:
 ---
 
 ## Exploitation
-
-Location:
-
-```text
-Reports/Exploitation/
-```
 
 Contains:
 - Exploitation summaries

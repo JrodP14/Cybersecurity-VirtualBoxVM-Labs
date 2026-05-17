@@ -66,7 +66,8 @@ Purpose:
 
 | Script | Purpose |
 |---|---|
-| `port-scanner.py` | Basic Python port scanner |
+| `python3-port-scanner.py` | Python port scanner |
+| `basic-port-scanner.py` | Basic port scanner |
 | `hash-checker.py` | SHA256 hashing utility |
 | `log-parser.py` | Simple log analysis tool |
 

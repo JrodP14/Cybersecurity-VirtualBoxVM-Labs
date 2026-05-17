@@ -32,6 +32,7 @@ The Kali Linux VM serves as the primary attacker, analysis, and security testing
 | Netcat | Banner grabbing and connectivity testing |
 | traceroute | Network path analysis |
 | ping | Connectivity testing |
+| Python | Automation and network scripting |
 
 ---
 

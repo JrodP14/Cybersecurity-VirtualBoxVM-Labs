@@ -51,6 +51,7 @@ The primary objectives of this section were:
 | whois | Domain registration analysis |
 | nslookup | DNS resolution |
 | dig | DNS record analysis |
+| Google | Passive Reconnaissance through Google Dorking |
 
 ---
 
@@ -102,6 +103,25 @@ Key concepts practiced:
 - public search analysis
 - exposed contact discovery
 - reconnaissance workflows
+
+---
+
+## Google Dorking
+
+Focus areas:
+- search operators
+- indexed content discovery
+- passive reconnaissance
+- filetype enumeration
+- exposed resource identification
+
+Key concepts practiced:
+- Google search operator usage
+- indexed content discovery
+- advanced search query refinement
+- filetype-based enumeration
+- domain-specific searching
+- reconnaissance data filtering
 
 ---
 

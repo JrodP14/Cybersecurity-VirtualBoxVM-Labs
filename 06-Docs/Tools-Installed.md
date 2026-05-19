@@ -65,6 +65,7 @@ All virtual machines operate independently within the same isolated lab network.
 | Sublist3r | Passive subdomain enumeration |
 | theHarvester | Email harvesting and public information gathering |
 | Python | Automation and reconnaissance scripting |
+| Scalpel | File carving & forensic recovery |
 
 ---
 

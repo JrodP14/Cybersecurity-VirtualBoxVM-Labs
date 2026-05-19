@@ -142,6 +142,27 @@ Learn wireless reconnaissance, WPA/WPA2 handshake capture, and wireless password
 
 ---
 
+# Phase 6 — Digital Forensics & Recovery
+
+## Objective
+
+Learn foundational digital forensics techniques including file signature analysis, disk image examination, manual file carving, and automated forensic recovery workflows.
+
+| Lab | Status |   
+|---|---|   
+| File Carving & Data Recovery | Complete |   
+
+### Skills Developed
+
+- file carving
+- disk analysis
+- forensic recovery
+- file signatures
+- offset analysis
+- Scalpel usage
+
+---
+
 # Current Tools Used
 
 | Tool | Purpose |   
@@ -157,7 +178,8 @@ Learn wireless reconnaissance, WPA/WPA2 handshake capture, and wireless password
 | Sysinternals Suite | Windows process analysis |
 | Shodan | Internet asset reconnaissance |
 | Sublist3r | Subdomain enumeration |
-| theHarvester | OSINT data collection |   
+| theHarvester | OSINT data collection | 
+| Scalpel | File carving & forensic recovery |   
 
 ---
 
@@ -179,6 +201,9 @@ Learn wireless reconnaissance, WPA/WPA2 handshake capture, and wireless password
 - process monitoring
 - vulnerability analysis
 - suspicious activity identification
+- digital forensics
+- forensic recovery
+- disk image analysis
 
 ---
 
@@ -248,6 +273,7 @@ Learn wireless reconnaissance, WPA/WPA2 handshake capture, and wireless password
 - Expand malware analysis knowledge
 - Develop blue team operational experience
 - Build professional cybersecurity portfolio projects
+- Forensic recovery results
 
 ---
 

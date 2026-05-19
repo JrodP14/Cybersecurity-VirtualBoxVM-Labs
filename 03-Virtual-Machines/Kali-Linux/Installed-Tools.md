@@ -92,6 +92,15 @@ The Kali Linux VM serves as the primary attacker, analysis, and security testing
 
 ---
 
+# Digital Forensics & Recovery Tools
+
+| Tool | Purpose |
+|---|---|
+| Scalpel | File carving and forensic recovery ||
+| HxD | Hexadecimal file analysis |
+
+---
+
 # Linux Administration Utilities
 
 | Utility | Purpose |
@@ -161,7 +170,7 @@ Future planned additions include:
 - Tools are installed strictly for authorized educational use.
 - Additional tools may be added as the lab environment expands.
 - Some tools require elevated privileges for full functionality.
-- The Kali Linux VM supports both active scanning and passive OSINT reconnaissance workflows.
+- The Kali Linux VM supports both active scanning, passive OSINT reconnaissance, packet analysis, and digital forensic recovery workflows.
 
 ---
 
